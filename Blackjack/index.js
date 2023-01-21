@@ -1,45 +1,7 @@
 
-// let firstCard = 11
-// let secondCard = 11
 
 
-// let sum = firstCard + secondCard 
-
-// if ( sum < 21) {
-//     console.log("Do want to draw a new card?!")
-
-// } else if (sum === 21 ) {
-//     console.log("Wohoo!! You've got Blackjack")
-// }else if ( sum > 21) {
-//     console.log("You're out of the game!")
-// }
-
-
-// let myAge = 22
-
-// if (myAge <+ 21) {
-
-//     console.log("You are underage!")
-// }else {
-//     console.log("Welcome to the Club!!")
-// }
-
-
-// let age = 99 
-
-
-// if (age < 100){
-//     console.log("You are not elegible, you are under 100")
-// }else if(age ===100) {
-
-//     console.log("Here's you birthday card from the king!")
-// } else {
-//     console.log("You are not elegible, already gotten your birthday card from the king!")
-// }
-
-
-
-let cards = [] // array - ordered list of items
+let cards = [] // 
 let sum = 0
 let hasBlackJack = false
 let isAlive = false
